@@ -3,5 +3,7 @@ public class Test {
         System.out.println("in main branch!");
         System.out.println("hello, world!");
         System.out.println("hello, world!");
+        System.out.println("hello, world!");
+        System.out.println("hello, world!");
     }
 }
